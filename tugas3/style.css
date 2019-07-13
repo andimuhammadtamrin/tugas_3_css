@@ -1,0 +1,19 @@
+p{
+  background-color:#848383;
+}
+.p1{
+  background-color:orange;
+}
+.p2{
+  background-color: blue;
+  color: white;
+}
+.p3{
+  background-color: white;
+  font-family:sans-serif;
+  font-size: 20px;
+}
+.p4{
+  font-weight: bold;
+  font-size: 20px;
+}
